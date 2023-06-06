@@ -23,6 +23,11 @@ function SideBar() {
                                 Charts and Graphs
                             </NavLink>
                         </li>
+                        <li>
+                            <NavLink to='https://github.com/Arwolfe07/Taiyo' className='block p-2 text-white text-2xl rounded-lg hover:bg-sky-950 text-center active:bg-sky-950'>
+                                Code Link (Github)
+                            </NavLink>
+                        </li>
                     </ul>
                 </div>
             </aside>
